@@ -1,0 +1,2 @@
+上传文件到github中，用户名为：xieyang,仓库为test,文件夹为image,图片名称为name.png
+文件url:https://github.com/cnxieyang/test/raw/master/image/name.png
